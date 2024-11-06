@@ -3,7 +3,7 @@ import os
 import json
 import requests
 
-openai.api_key = "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"
+openai.api_key = "Enter your api key not mine"
 import json
 
 with open("openai_chatbot.json", "r") as f:
